@@ -1,0 +1,5 @@
+package br.org.serratec.cliente.controller;
+
+public class ClienteController {
+
+}

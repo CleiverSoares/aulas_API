@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item id="NodeList/PostgreTableColumn">
+		<column name="Nome da coluna" visible="true" order="0" width="102"/>
+		<column name="#" visible="true" order="1" width="100"/>
+		<column name="Tipo de dados" visible="true" order="2" width="100"/>
+		<column name="Identidade" visible="true" order="3" width="100"/>
+		<column name="Coleção" visible="true" order="4" width="100"/>
+		<column name="Não Nulo" visible="true" order="5" width="100"/>
+		<column name="Padrão" visible="true" order="6" width="100"/>
+		<column name="Comentário" visible="true" order="7" width="100"/>
+	</item>
+</items>

@@ -1,0 +1,37 @@
+package com.example.venda.domain;
+
+public class Produto {
+	private Integer id;
+	private String nome;
+	private Double valor;
+	
+	
+	
+	public Integer getId() {
+		return id;
+	}
+
+	public Produto(Integer id, String nome, Double valor) {
+		super();
+		this.id = id;
+		this.nome = nome;
+		this.valor = valor;
+	}
+
+	public Produto() {
+		
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public Double getValor() {
+		return valor;
+	}
+	
+	
+	
+}
+
+

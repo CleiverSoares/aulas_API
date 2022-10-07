@@ -1,0 +1,5 @@
+package br.org.serratec.venda.repository;
+
+public interface jpa {
+
+}

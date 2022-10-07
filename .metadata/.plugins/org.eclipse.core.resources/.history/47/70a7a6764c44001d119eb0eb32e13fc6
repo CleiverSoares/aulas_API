@@ -1,0 +1,5 @@
+package br.org.serratec.exercicio01.controller;
+
+public class VeiculoController {
+
+}
